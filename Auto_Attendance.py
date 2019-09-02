@@ -8,8 +8,8 @@ import json
 
 # Variables to store account details
 HOST = 'imap.gmail.com'
-EMAIL = 'attendance@softinfo.in'
-PASSWORD = 'att@softinfo'
+EMAIL = '#######'
+PASSWORD = '######'
 
 
 # Function to read and store all unread emails having the subject "Attendance"
